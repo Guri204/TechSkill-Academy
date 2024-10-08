@@ -20,8 +20,8 @@ Footer Section: Contact information and additional links.
 
 ## Technologies Used
 -**HTML5**: For the structure of the web pages.
--**CSS3**: For the design, layout, and responsiveness.
--**JavaScript**: For interactivity and dynamic functionality.
++**CSS3**: For the design, layout, and responsiveness.
+**JavaScript**: For interactivity and dynamic functionality.
 -**GitHub Pages**: Hosting platform for the live demo.
 
 ## Live Demo
