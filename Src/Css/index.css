@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+/*----------------*/
+/* Basic rules    */
+/*----------------*/
+
+.container {
+    width: min(100% - 30px, 1200px);
+    margin-inline: auto;
+}
+
+.root {
+    --app-green-background: #20c997;
+}
+
+html {
+    font-family: "open-sans",sans-serif,Arial,;
+}
+
+body {
+    background-color: var(--app-green-background);
+}
+
+.main {
+    background-image: url(../image/img\ 2.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    h1 {
+        font-weight: 400;
+        font-size: 40px;
+        font-style: bold;
+        align-items: center;
+    }
+
+    p {
+        font-size: 30px;
+        color: #fff;
+    }
+
+}
+
+
+
+
+
