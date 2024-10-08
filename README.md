@@ -22,7 +22,7 @@ Footer Section: Contact information and additional links.
 - **HTML5**: For the structure of the web pages.
 + **CSS3**: For the design, layout, and responsiveness.
 * **JavaScript**: For interactivity and dynamic functionality.
-% **GitHub Pages**: Hosting platform for the live demo.
+$ **GitHub Pages**: Hosting platform for the live demo.
 
 ## Live Demo
 Check out the live version of the project here [TechSkill Academy Live](https://guri204.github.io/TechSkill-Academy/)
